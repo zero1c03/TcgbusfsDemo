@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TcgbusfsDemo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="login_success">Login success</string>
+    <string name="login_error">Login error</string>
+    <string name="login_fail">Login fail, please check Email or Password.</string>
+    <string name="invalid_account">Invalid account.</string>
+    <string name="invalid_password">Invalid password.</string>
+    <string name="update_time">Update Time : %s</string>
+    <string name="chtmessage">Message : %s</string>
+    <string name="starttime">Start time : %s</string>
+    <string name="endtime">End time : %s</string>
+    <string name="updatetime">Update time : %s</string>
+    <string name="content">Content : %s</string>
+    <string name="time_zone">Time Zone</string>
+    <string name="update_success">Update Success</string>
+    <string name="update_fail">Update Fail</string>
+</resources>
